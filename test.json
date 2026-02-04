@@ -2,7 +2,7 @@
   "category": {
     "name": "分类名称",
     "description": "分类描述",
-    "belong_to_type": "HOT",  // 或 "COLD"
+    "belong_to_type": "HOT",
     "sort": 0
   },
   "quotes": [
