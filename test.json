@@ -1,0 +1,23 @@
+{
+  "category": {
+    "name": "分类名称",
+    "description": "分类描述",
+    "belong_to_type": "HOT",  // 或 "COLD"
+    "sort": 0
+  },
+  "quotes": [
+    {
+      "title": "标题（可选）",
+      "content": "名言内容",
+      "author": "作者",
+      "type": "HOT",
+      "note": "注释（可选）",
+      "example": "例句（可选）"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "total_quotes": 50,
+    "last_updated": "2026-02-04T00:00:00Z"
+  }
+}
